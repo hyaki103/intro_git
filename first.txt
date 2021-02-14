@@ -1,3 +1,4 @@
 最初
 git add
 git commit
+git remove
