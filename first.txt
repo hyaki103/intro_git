@@ -1,1 +1,3 @@
 最初
+git add
+git commit
